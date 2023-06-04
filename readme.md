@@ -5,5 +5,7 @@ This is a validator for multiple thing, such as:
 3. Validate UIU student ID fo CSE dept. (fsahriar171236bscse.uiu.ac.bd; it is valid email of CSE dept)
 4. Validate a particular string condition
 5. Validate Password using some particular requirements
+
+
 Live preview: https://fahimsahriar.github.io/uiu-email-id-validator/
 This template was made by Colorlib (https://colorlib.com)
